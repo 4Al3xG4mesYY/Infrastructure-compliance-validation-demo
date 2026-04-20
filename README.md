@@ -3,6 +3,9 @@
 Demonstration of a security-adjacent infrastructure validation workflow using synthetic data.  
 The project showcases DNS/IP lifecycle analysis, configuration drift detection, outcome classification, and action-oriented dispositions designed to support safe operational decision-making.  
 **All data is fictional and created solely for demonstration purposes.**
+## Sanitized Demo
+All IPs/domains and datasets in this repository are synthetic and created solely for demonstration purposes.
+No proprietary systems, internal identifiers, or real infrastructure details are included.
 
 ---
 
