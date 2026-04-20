@@ -30,3 +30,9 @@ No proprietary systems, internal identifiers, or real infrastructure details are
 Example:
 ```bash
 python3 src/check_ip_domain_sanitized_demo.py demo/demo_input.csv -o demo/results_colorcoded_sanitized_demo.xlsx
+
+## Example Output
+A sample dashboard view generated from the sanitized demo dataset is shown below.
+![Sample dashboard](/docs/dashboard_screenshot.png?raw=true)
+![Sanitized demo dataset](/docs/classification_example.png?raw=true)
+
